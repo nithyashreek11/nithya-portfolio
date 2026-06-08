@@ -1,4 +1,4 @@
-© 2026 
+Copyright © 2026 Nithya Shree K
 
-This project is provided for viewing and evaluation purposes only.
-Unauthorized copying, redistribution, or submission of this work as one's own academic work is prohibited.
+This repository is intended for portfolio and evaluation purposes.
+Please do not copy or submit this work as your own.
